@@ -1,11 +1,13 @@
 ### Hi there 👋
-
+Welcome to my GitHub profile! Here, you'll find a collection of my projects and contributions in the field of data engineering and analytics. I'm passionate about leveraging data to drive insights and make informed decisions.
 <!--
 **Saswato/Saswato** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on 
+I'm currently focusing on building scalable data solutions and data pipelines using cloud technologies like Azure and AWS. I'm also exploring advanced techniques such as Big Data, Artificial Intelligence, and Machine Learning to enhance data-driven decision-making.
+
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
